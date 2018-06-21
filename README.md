@@ -8,7 +8,7 @@ Base on [Vue](https://vuejs.org/) , [Wepack](https://webpack.github.io/) & [babe
 4. CI [travis](https://docs.travis-ci.com/) integrated
 
 ## How to use
-Just clone this repo to your own project:
+Use `vue-cli` to init your extension by following steps:
 
 ```sh
 # if you have vue-cli installed, just ignore this command
